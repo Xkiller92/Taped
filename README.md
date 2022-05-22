@@ -1,2 +1,2 @@
 # Taped
-A game engine based on XNA framework
+A game engine from scratch 
